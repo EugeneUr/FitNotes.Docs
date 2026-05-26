@@ -1,0 +1,13 @@
+site_name: FitNotes Documentation
+theme: readthedocs
+markdown_extensions:
+    - admonition
+
+nav:
+- Home: 'index.md'
+- Overview:
+  - 'Workouts': 'workouts.md'
+  - 'Exercises': 'exercises.md'
+  - 'Logs': 'logs.md'
+- Settings: 'settings.md'
+- HowTo: 'howto.md'
