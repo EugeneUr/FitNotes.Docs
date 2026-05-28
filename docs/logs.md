@@ -1,4 +1,6 @@
-﻿Here you will find all your completed Workouts and allow you to add historical ones.
+﻿# Logs
+
+Here you will find all your completed Workouts and allow you to add historical ones.
 
 ![logsTop](img/logsTop.png)
 

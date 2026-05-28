@@ -1,4 +1,6 @@
-﻿Here you will find all your exercises and compose new ones.  
+﻿# Exercises
+
+Here you will find all your exercises and compose new ones.  
 
 FitNotes comes preloaded with a few dozen exercises to get your started but adding new ones is simple and easy.
 

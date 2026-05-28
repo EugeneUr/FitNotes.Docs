@@ -1,4 +1,8 @@
-﻿# Rest Timer
+﻿# Settings
+
+**Settings** can be selected from the app's bottom toolbar. You can configure your app's visuals and metrics, manage data, or contact FitNotes.
+
+## Rest Timer
 
 **1\. Rest Time**  
 How long to rest between each set and exercise.  
@@ -20,7 +24,7 @@ Default: **YES**
 If the rest timer should be triggered between exercises.  
 Default: **NO**
 
-# Units
+## Units
 
 **1\. Weight**  
 Select the unit system for recording weight.  
@@ -30,10 +34,10 @@ Default: **Imperial (lbs)**
 Select the unit system for recording distance.  
 Default: **Imperial (miles)**
 
-# Keyboard
+## Keyboard
 
 !!! note
-    Requires PRO version
+    This feature requires Fitnotes PRO.
 
 **1\. Use PRO keyboard**  
 Indicates if the PRO keyboard should be used for data input.  
@@ -43,7 +47,7 @@ Default: **YES**
 Indicates if the PRO keyboard should be left or right oriented.  
 Default: **YES**
 
-# Workout Data Entry
+## Workout Data Entry
 
 **1\. Default Sets**  
 The default number of sets to add when adding a new exercise to a workout.  
@@ -61,7 +65,7 @@ Default: **5min**
 Indicates if a new workout should continue with values from a similary previous workout.  
 Default: **YES**
 
-# Workout Data Export 
+## Workout Data Export 
 
 **1\. Restore Default Exercises**  
 Restores the default exercies. Your created exercises will not be affected.
@@ -84,7 +88,7 @@ Upon each workout completion exports that workouts data as CSV and mails it to t
 !!! note
     This feature requires PRO version
 
-# Style
+## Style
 
 **1\. Color Scheme**  
 Allows to customize the color theme of FitNotes.
@@ -97,19 +101,19 @@ Default: **Sunday**
 Indicates if the screens should remain on while FitNotes is active.  
 Default: **NO**
 
-# About Us
+## About Us
 
 **1\. Contact Us**  
-Open an email form to send feedback to [FitNotes@outlook.com](mailto:FitNotes@outlook.com)
+Opens an email form to send feedback to [support@fitnotes.info](mailto:support@fitnotes.info).
 
 **2\. Send Data For Diagnostics**  
-Send your data for diagnostics to [FitNotes@outlook.com](mailto:FitNotes@outlook.com)
+Sends your data for diagnostics to [support@fitnotes.info](mailto:support@fitnotes.info).
 
 **3\. FitNotes Store**  
-Opens the in-app Store to either buy or restore **FitNotes PRO**
+Opens the in-app Store to either buy or restore **FitNotes PRO**.
 
 **4\. Documentation**  
-Opens the documentation website [fitnotes.info](http://www.fitnotes.info/) 
+Opens the documentation website [fitnotes.info](http://www.fitnotes.info/).
 
 **5\. Rate Us**  
-Opens a screen to leave a review for **FitNotes**
+Opens a screen to leave a review for **FitNotes**.

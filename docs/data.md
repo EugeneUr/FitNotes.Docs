@@ -1,4 +1,7 @@
-﻿# Export Data
+﻿# Managing Your Data
+
+## Exporting Data
+
 In FitNotes you can export your data in several ways and formats. All these formats can be found in the Settings tab inside the app.
 
 **1\. Export Workouts To CSV**  
@@ -11,9 +14,10 @@ This will export all your Exercise definitions to a CSV file. You can import thi
 This will export all your data in a FitNotes readable format. You can import this file to restore everything.  
  
  
-!!! note
+!!! warning
     Importing this file will override your current data. 
 
     
-# Import Data
-In order to import your data into FitNotes simply click the file you wish to import and select the option to **Copy to FitNotes**
+## Importing Data
+
+In order to import your data into FitNotes, click the file you wish to import and select **Copy to FitNotes**.
