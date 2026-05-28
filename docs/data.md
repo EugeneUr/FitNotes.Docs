@@ -1,6 +1,4 @@
-﻿# Managing Your Data
-
-## Exporting Data
+﻿## Exporting Data
 
 In FitNotes you can export your data in several ways and formats. All these formats can be found in the Settings tab inside the app.
 

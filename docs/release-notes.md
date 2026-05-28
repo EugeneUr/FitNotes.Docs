@@ -1,5 +1,3 @@
-# Release Notes
-
 ## v2.9.0 Release:
 
 NEW: Personal Records! We have added the notion of personal records and back filled that data. 

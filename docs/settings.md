@@ -1,6 +1,4 @@
-﻿# Settings
-
-**Settings** can be selected from the app's bottom toolbar. You can configure your app's visuals and metrics, manage data, or contact FitNotes.
+﻿**Settings** can be selected from the app's bottom toolbar. You can configure your app's visuals and metrics, manage data, or contact FitNotes.
 
 ## Rest Timer
 
